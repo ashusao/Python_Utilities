@@ -1,4 +1,4 @@
-The script analyzes the objects **bounding size in detection dataset** where annotation is in *PASCAL VOC format*.
+The script analyzes the **size of bounding box** of objects in detection dataset where annotation is in *PASCAL VOC format*.
 
 
 ![alt text](../images/train_bbox_size.png "Network Diagram")
